@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on [Awin Helper](https://github.com/ajaxburger/Aw-Helper-Extension), a browser extension designed to streamline the Sales and Integration process for Awin Employees.
+
 <!--
 **ajaxburger/ajaxburger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
